@@ -1,19 +1,19 @@
-- name: Longest Word Game
+- name: Sinta
   description: Decent description of the app
   image: projects/placeholder.png
-  url: https://www.google.com
+  url: https://www.sintaapp.com
 
-- name: Movie Watchlist
+- name: KiSpace
   description: Decent description of the app
   image: projects/placeholder.png
-  url: https://www.google.com
+  url: https://kispace.herokuapp.com/
 
-- name: Airbnb
+- name: Watch List
   description: Decent description of the app
   image: projects/placeholder.png
-  url: https://www.google.com
+  url: https://sammy-watch-list.herokuapp.com/
 
-- name: Final project
+- name: Working on
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://www.google.com
