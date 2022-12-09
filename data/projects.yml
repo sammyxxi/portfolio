@@ -2,18 +2,22 @@
   description: A Ruby application that makes the recruitment process faster.
   image: projects/Sinta.png
   url: https://www.sintaapp.com
+  stack: Javascript, HTML, CSS, Rails, Bootstrap, PostgreSQL
 
 - name: KiSpace
   description: A marketplace for event spaces.
   image: projects/KiSpace.png
   url: https://kispace.herokuapp.com/
+  stack: Javascript, HTML, CSS, Rails, Bootstrap, PostgreSQL
 
 - name: Watch List
   description: A web application that stores personalised movie lists.
   image: projects/placeholder.png
   url: https://sammy-watch-list.herokuapp.com/
+  stack: HTML, CSS, Rails, Bootstrap
 
 - name: Working on
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://www.google.com
+  stack: Javascript, HTML, CSS, Rails, Bootstrap, PostgreSQL
