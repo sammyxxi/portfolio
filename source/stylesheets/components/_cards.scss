@@ -1,11 +1,21 @@
-.cards {
+.project-cards {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 16px;
   background-color: white;
   border-radius: 4px;
-  margin: 16px;
-  padding: 16px;
+  margin: 16px 0;
+  padding: 24px;
+}
+
+.about-cards {
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 16px;
+  background-color: white;
+  border-radius: 4px;
+  margin: 16px 0;
+  padding: 24px;
+  width: 50%;
 }
 
 .card-product {
