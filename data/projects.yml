@@ -3,21 +3,25 @@
   image: projects/Sinta.png
   url: https://www.sintaapp.com
   stack: Javascript, HTML, CSS, Rails, Bootstrap, PostgreSQL
+  role: Team Role - Front End Developer
 
 - name: KiSpace
   description: A marketplace for event spaces.
   image: projects/KiSpace.png
   url: https://kispace.herokuapp.com/
   stack: Javascript, HTML, CSS, Rails, Bootstrap, PostgreSQL
+  role: Team Role - Project Manager
 
 - name: Watch List
   description: A web application that stores personalised movie lists.
   image: projects/placeholder.png
   url: https://sammy-watch-list.herokuapp.com/
   stack: HTML, CSS, Rails, Bootstrap
+  role: Solo Project
 
 - name: Working on
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://www.google.com
   stack: Javascript, HTML, CSS, Rails, Bootstrap, PostgreSQL
+  role: Solo Project
