@@ -1,15 +1,15 @@
 - name: Sinta
-  description: Decent description of the app
-  image: projects/placeholder.png
+  description: A Ruby application that makes the recruitment process faster.
+  image: projects/Sinta.png
   url: https://www.sintaapp.com
 
 - name: KiSpace
-  description: Decent description of the app
-  image: projects/placeholder.png
+  description: A marketplace for event spaces.
+  image: projects/KiSpace.png
   url: https://kispace.herokuapp.com/
 
 - name: Watch List
-  description: Decent description of the app
+  description: A web application that stores personalised movie lists.
   image: projects/placeholder.png
   url: https://sammy-watch-list.herokuapp.com/
 
