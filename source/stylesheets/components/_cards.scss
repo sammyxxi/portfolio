@@ -1,11 +1,9 @@
 .project-cards {
-  display: grid;
+  display: contents;
   grid-template-columns: 1fr 1fr;
   grid-gap: 16px;
-  background-color: white;
   border-radius: 4px;
-  margin: 16px 0;
-  padding: 24px;
+  margin: 16px;
 }
 
 .about-cards {
@@ -25,12 +23,15 @@
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
   display: flex;
   align-items: center;
+  margin: 16px;
+  border-radius: 4px;
 }
 
 .card-product img {
   height: 100%;
-  width: 160px;
+  width: 50%;
   object-fit: cover;
+  border-radius: 4px 0 0 4px;
 }
 
 .card-product h2 {

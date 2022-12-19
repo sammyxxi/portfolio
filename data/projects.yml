@@ -19,9 +19,9 @@
   stack: HTML, CSS, Rails, Bootstrap
   role: Solo Project
 
-- name: Working on
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  stack: Javascript, HTML, CSS, Rails, Bootstrap, PostgreSQL
-  role: Solo Project
+# - name: Working on
+#   description: Decent description of the app
+#   image: projects/placeholder.png
+#   url: https://www.google.com
+#   stack: Javascript, HTML, CSS, Rails, Bootstrap, PostgreSQL
+#   role: Solo Project
