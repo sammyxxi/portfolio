@@ -24,12 +24,14 @@
   display: flex;
   align-items: center;
   margin: 16px;
+  border-radius: 4px;
 }
 
 .card-product img {
   height: 100%;
-  width: 160px;
+  width: 50%;
   object-fit: cover;
+  border-radius: 4px 0 0 4px;
 }
 
 .card-product h2 {
