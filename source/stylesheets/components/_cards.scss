@@ -1,5 +1,5 @@
 .project-cards {
-  display: grid;
+  display: contents;
   grid-template-columns: 1fr 1fr;
   grid-gap: 16px;
   border-radius: 4px;
@@ -23,6 +23,7 @@
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
   display: flex;
   align-items: center;
+  margin: 16px;
 }
 
 .card-product img {
